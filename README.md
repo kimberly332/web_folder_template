@@ -1,4 +1,5 @@
-# wang_shan-li_project1
+# Web Folder Template
+
 MIT License
 
 Copyright (c) 2020 Shan-Li Wang
